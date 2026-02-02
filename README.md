@@ -58,4 +58,4 @@ $ pnpm dev
 
 ---
 
-Week 18 Assignment Links : https://w18-react.netlify.app/
+Week 18 Assignment Links : https://cats-photo-club.netlify.app
